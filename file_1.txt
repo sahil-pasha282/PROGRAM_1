@@ -14,6 +14,21 @@ git push -u origin main
 git checkout main
 git merge feature_branch
 
-program_3
+program 3
+
+
+program_4
+git clone https://github.com/panique/mini.git
+
+program_5
+git checkout<branch name>
+git fetch origin
+git rebase origin/<branch name>
+git rebase--continue
+git push origin<branch name>
+git checkout master 
+git merge feature_branch -m "....."
+
+
 
 
