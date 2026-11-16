@@ -1,1 +1,9 @@
-hello 
+program 1
+git init
+notepad file
+git commit -m "second Version"
+git remote add origin "https://github.com/sahil-pasha282/second-Version.git"
+git push -u origin main
+
+program_2
+
